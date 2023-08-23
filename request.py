@@ -8,7 +8,7 @@ def read_txt(websites):
     return websites_list
 
 # Use the correct path to your 'websites.txt' file
-websites_list = read_txt(r'C:\Users\amujt\OneDrive\Desktop\Request\websites.txt')
+websites_list = read_txt(r'subindrive.txt')
 
 def process_websites(websites):
     results = []
